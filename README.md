@@ -1,2 +1,2 @@
 # snippetcode
-some pieces of cde
+some pieces of code
